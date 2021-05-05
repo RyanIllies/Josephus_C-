@@ -168,7 +168,7 @@ template <class T>
 T& CircularQueue<T>::curr()
 {
 	return current->item;
-	
+
 }
 
 
