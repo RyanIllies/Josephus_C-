@@ -13,6 +13,7 @@ using namespace std;
 
 int main() {
 	CircularQueue<Person> people;
+	
 	cout << "Which file should we read the names from?" << endl;
 	string filename;
 	cin >> filename;
